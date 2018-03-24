@@ -7,3 +7,5 @@ The text files 'patient' and 'control' are given to the network in the learning 
 
 A file named 'zain' which in unknown to the netwrok is provided then provided in the testing phase to identify the vectors as either
 control or patients.
+
+Written in MATLAB
